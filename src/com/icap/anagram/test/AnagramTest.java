@@ -14,7 +14,7 @@ import com.google.common.collect.ListMultimap;
  * output:  any anagrams in the dictionary - format [dog, god] 
  * 
  * @author colinrafter
- *
+ * commiting a new change to gitHub via the IDE.
  */
 public class AnagramTest {
 	
