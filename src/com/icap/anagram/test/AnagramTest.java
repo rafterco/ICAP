@@ -15,7 +15,7 @@ import com.google.common.collect.ListMultimap;
  * 
  * @author colinrafter
  * commiting a new change to gitHub via the IDE.
- */
+		*/
 public class AnagramTest {
 	
 	List<String> dictionary = new ArrayList<>();
